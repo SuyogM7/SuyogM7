@@ -24,7 +24,7 @@ I'm a Master's student in [Applied Data Science](https://datascience.uchicago.ed
 - Experienced in **Python, SQL, PySpark, Machine Learning**  
 - Currently learning **Bayesian Modelling, GenAI, Machine Learning**  
 - Interested in **Finance, Trading, and Sports Analytics**  
-- Reach me at: [academics.zeel@gmail.com](mailto:suyogmahale7@gmail.com)
+- Reach me at: [suyogmahale7@gmail.com](mailto:suyogmahale7@gmail.com)
 
 ### 🛠️ Tech Stack
 
