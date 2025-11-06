@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## Hi there, I'm Zeel. 👋
+## Hi there, I'm Suyog. 👋
 
 Aspiring Data Scientist | Machine Learning Enthusiast | Big Data Explorer
 
@@ -72,8 +72,8 @@ I'm a Master's student in [Applied Data Science](https://datascience.uchicago.ed
 - [Business Case Studies with AI, Deep Learning, and NLP](https://github.com/zeelpatel7/Business-Case-Studies-with-Data-Science) (Aug 2024):
   Conducted five in-depth business case studies (e.g., customer segmentation, sales forecasting, sentiment analysis, medical diagnostics, employee retention) leveraging AI, Deep Learning, and NLP techniques to solve complex business challenges and derive actionable insights.
   
-- Check out my published research papers on [Machine Learning, Data Analytics, and Data Processing](https://www.researchgate.net/profile/Zeel-Patel-38?ev=hdr_xprf) on ResearchGate.
+- Check out my published research papers on [Machine Learning, Data Analytics, and Data Processing](https://www.researchgate.net/profile/Suyog-Mahale-2) on ResearchGate.
 
 
 ### Connect with Me on LinkedIn
-<a href="https://www.linkedin.com/in/zeelpatel7/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="50"/></a>
+<a href="https://www.linkedin.com/in/suyog-mahale-31706b190/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="50"/></a>
