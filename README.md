@@ -1,24 +1,10 @@
-<!--## Hi there 👋-->
 
-<!--
-**zeelpatel7/zeelpatel7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
 ## Hi there, I'm Suyog. 👋
 
 Aspiring Data Scientist | Machine Learning Enthusiast | Big Data Explorer
 
-I'm a Master's student in [Applied Data Science](https://datascience.uchicago.edu/education/masters-programs/ms-in-applied-data-science/) at the University of Chicago, passionate about machine learning, big data, and AI-driven problem-solving. With experience in Python, SQL, PySpark, and data analytics, I thrive on transforming complex datasets into actionable insights. I have a background in big data, risk assessment, and cloud computing, with hands-on experience in consulting and research. Currently, I'm exploring deep learning and its applications in finance and trading. Always eager to learn and collaborate, I aim to bridge the gap between data science and real-world decision-making.
+I'm a Master's student in [Applied Data Science](https://datascience.uchicago.edu/education/masters-programs/ms-in-applied-data-science/) at the University of Chicago, passionate about machine learning, big data, and AI-driven problem-solving. With experience in Python, SQL, PySpark, and data analytics, I thrive on transforming complex datasets into actionable insights. I have a background in software engineering, database management, and data analytics, with hands-on experience in consulting and research. Currently, I'm exploring deep learning and its applications in finance and trading. Always eager to learn and collaborate, I aim to bridge the gap between data science and real-world decision-making.
 
 - Passionate about **Data Science & AI**  
 - Experienced in **Python, SQL, PySpark, Machine Learning**  
@@ -48,16 +34,14 @@ I'm a Master's student in [Applied Data Science](https://datascience.uchicago.ed
 
 ### Here are a few of my projects:
 
-- [**Wiki Data Viewer**](https://github.com/zeelpatel7/wiki_data_viewer) (May 2025):
-  Developed a full-stack web app to replace a disorganized data archive, enabling non-technical researchers to intuitively access decades of historical research data.
-  
+ 
 - [**CheXRetriever: Text-to-Image Multimodal Retrieval on Medical X-rays**](https://github.com/zeelpatel7/CheXRetriever) (May 2025):
   Built a multimodal system that maps radiology text queries to chest X-rays using vision-language models for clinically relevant image retrieval.
   
-- [**AlgoTradeX: Intelligent Automated Trading System**](https://github.com/zeelpatel7/Trading-System) (March 2025):
+- [**AlgoTradeX: Intelligent Automated Trading System**](https://github.com/SuyogM7/AlgoTradeX-Intelligent-Automated-Trading-System) (March 2025):
   Built a robust trading system using Python to analyze market data, execute automated trades, and manage portfolios efficiently.
   
-- [Crude Gasoline Dynamics: Cointegration Forecasting for Energy Arbitrage](https://github.com/zeelpatel7/Crude-Gasoline-Dynamics) (March 2025):
+- [Crude Gasoline Dynamics: Cointegration Forecasting for Energy Arbitrage](https://github.com/SuyogM7/Crude-Gasoline-Spread-Analysis) (March 2025):
   Analyzed cointegration between gasoline and crude oil prices using statistical and deep learning models, providing valuable insights for optimized trading strategies in energy markets.
   
 - [Web Application Vulnerability Analysis and Prediction](https://github.com/zeelpatel7/Web-Application-Vulnerability-Prediction) (Dec 2024):
