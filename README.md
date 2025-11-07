@@ -34,27 +34,24 @@ I'm a Master's student in [Applied Data Science](https://datascience.uchicago.ed
 
 ### Here are a few of my projects:
 
- 
-- [**CheXRetriever: Text-to-Image Multimodal Retrieval on Medical X-rays**](https://github.com/zeelpatel7/CheXRetriever) (May 2025):
-  Built a multimodal system that maps radiology text queries to chest X-rays using vision-language models for clinically relevant image retrieval.
   
 - [**AlgoTradeX: Intelligent Automated Trading System**](https://github.com/SuyogM7/AlgoTradeX-Intelligent-Automated-Trading-System) (March 2025):
   Built a robust trading system using Python to analyze market data, execute automated trades, and manage portfolios efficiently.
   
-- [Crude Gasoline Dynamics: Cointegration Forecasting for Energy Arbitrage](https://github.com/SuyogM7/Crude-Gasoline-Spread-Analysis) (March 2025):
+- [**Crude Gasoline Dynamics: Cointegration Forecasting for Energy Arbitrage**](https://github.com/SuyogM7/Crude-Gasoline-Spread-Analysis) (March 2025):
   Analyzed cointegration between gasoline and crude oil prices using statistical and deep learning models, providing valuable insights for optimized trading strategies in energy markets.
   
-- [Web Application Vulnerability Analysis and Prediction](https://github.com/zeelpatel7/Web-Application-Vulnerability-Prediction) (Dec 2024):
+- [**Web Application Vulnerability Analysis and Prediction**](https://github.com/zeelpatel7/Web-Application-Vulnerability-Prediction) (Dec 2024):
   Built predictive models using Poisson Regression and Negative Binomial Modeling to forecast vulnerabilities in web applications.
   
-- [Turing Bots vs Human Developers](https://github.com/zeelpatel7/TuringBots-vs-Human-Developers) (Dec 2024):
+- [**Turing Bots vs Human Developers**](https://github.com/zeelpatel7/TuringBots-vs-Human-Developers) (Dec 2024):
   Investigated AI-generated versus human-written code using 1.36 TiB GitHub data on GCP, analyzing programming trends, repository growth, and commit patterns to evaluate AI coding capabilities.
   
-- [Corporate Data Analysis and Insights Repository](https://github.com/zeelpatel7/Corporate-Data-Analysis-and-Insights-Repository) (Nov 2024):
+- [**Corporate Data Analysis and Insights Repository**](https://github.com/SuyogM7/Fitness-Center-Case-Study) (Nov 2024):
   Conducted comprehensive data analysis and generated actionable insights for three businesses—McDonald's, Planet Fitness, and Verizon—focusing on exploratory analysis, predictive modeling, and business recommendations.
   
-- [Business Case Studies with AI, Deep Learning, and NLP](https://github.com/zeelpatel7/Business-Case-Studies-with-Data-Science) (Aug 2024):
-  Conducted five in-depth business case studies (e.g., customer segmentation, sales forecasting, sentiment analysis, medical diagnostics, employee retention) leveraging AI, Deep Learning, and NLP techniques to solve complex business challenges and derive actionable insights.
+- [**Sentiment Analysis using NLP**](https://github.com/SuyogM7/Stock-Sentiment-Analysis) (Aug 2024):
+  Scraped stock news headlines from HTML pages, performed NLTK-based sentiment analysis, and visualized sentiment trends to generate actionable investment insights.
   
 - Check out my published research papers on [Machine Learning, Data Analytics, and Data Processing](https://www.researchgate.net/profile/Suyog-Mahale-2) on ResearchGate.
 
