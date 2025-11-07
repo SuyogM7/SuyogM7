@@ -41,16 +41,16 @@ I'm a Master's student in [Applied Data Science](https://datascience.uchicago.ed
 - [**Crude Gasoline Dynamics: Cointegration Forecasting for Energy Arbitrage**](https://github.com/SuyogM7/Crude-Gasoline-Spread-Analysis) (March 2025):
   Analyzed cointegration between gasoline and crude oil prices using statistical and deep learning models, providing valuable insights for optimized trading strategies in energy markets.
   
-- [**Web Application Vulnerability Analysis and Prediction**](https://github.com/zeelpatel7/Web-Application-Vulnerability-Prediction) (Dec 2024):
+- [**Web Application Vulnerability Analysis and Prediction**](https://github.com/SuyogM7/Web-Application-Vulnerability-Prediction) (Dec 2024):
   Built predictive models using Poisson Regression and Negative Binomial Modeling to forecast vulnerabilities in web applications.
   
-- [**Turing Bots vs Human Developers**](https://github.com/zeelpatel7/TuringBots-vs-Human-Developers) (Dec 2024):
+- [**Turing Bots vs Human Developers**](https://github.com/SuyogM7/Will-TuringBots-Replace-Human-Software-Developers) (Dec 2024):
   Investigated AI-generated versus human-written code using 1.36 TiB GitHub data on GCP, analyzing programming trends, repository growth, and commit patterns to evaluate AI coding capabilities.
   
 - [**Corporate Data Analysis and Insights Repository**](https://github.com/SuyogM7/Fitness-Center-Case-Study) (Nov 2024):
   Conducted comprehensive data analysis and generated actionable insights for three businesses—McDonald's, Planet Fitness, and Verizon—focusing on exploratory analysis, predictive modeling, and business recommendations.
   
-- [**Sentiment Analysis using NLP**](https://github.com/SuyogM7/Stock-Sentiment-Analysis) (Aug 2024):
+- [**Stock Sentiment Analysis**](https://github.com/SuyogM7/Stock-Sentiment-Analysis) (Jun 2022):
   Scraped stock news headlines from HTML pages, performed NLTK-based sentiment analysis, and visualized sentiment trends to generate actionable investment insights.
   
 - Check out my published research papers on [Machine Learning, Data Analytics, and Data Processing](https://www.researchgate.net/profile/Suyog-Mahale-2) on ResearchGate.
